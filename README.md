@@ -1,0 +1,3 @@
+# NOTES
+
+Public repo with a few custom hooks....
